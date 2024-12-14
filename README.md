@@ -1,5 +1,5 @@
 # Deep Learning Final Project
-##Text multi label classification using LSTM, BiLSTM+CNN and BERT
+## Text multi label classification using LSTM, BiLSTM+CNN and BERT
 
 The BiLSTM+CNN model in this project utilizes pre-trained word embeddings from the PhoW2V model. PhoW2V is a Vietnamese word2vec model trained on a large corpus of Vietnamese text. It provides high-quality word embeddings, which help the BiLSTM+CNN architecture effectively capture semantic relationships in text data.
 
